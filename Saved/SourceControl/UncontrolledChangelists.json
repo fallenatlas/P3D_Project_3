@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/ArchVis_TestLook.umap",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/ArchVis_RT_BuiltData.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/M_VistaCity.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/MI_Blind_1.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/M_CurtainEmissive.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/M_CurtainSubsurface.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/M_MasterMaterial.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/MI_WhiteFabricSubsurface.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_DB9572E5.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_8E56C758.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_DB9572E4.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_F3E1F4A6.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/MI_Bulb.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/ArchVis_TestWithGround.umap",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_32E126E6.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/BuildingMeshes/SM_Wall_Front.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/BuildingMeshes/SM_Wall_Left.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Stairs_1F201E0A.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/StarterContent/Props/Materials/M_Rock.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/MI_Wall_Accent.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_69BF69A6.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_6E4E7066.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_7A481281.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_9CA0994C.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_D6811B65.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_DA3B522F.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Megascans/Surfaces/Dirty_Roof_Tiles_wi4obhwg/T_Dirty_Roof_Tiles_wi4obhwg_2K_Mat.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/AutoLandscape/Content/Example/Materials/MI_Landscape_Mountain.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/UE5Landscape/SenseiLandscape.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/M_CurtainSu.uasset"
+			]
+		}
+	]
+}
