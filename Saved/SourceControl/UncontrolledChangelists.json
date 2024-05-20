@@ -5,9 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/rnl199331/source/repos/fallenatlas/P3D_Project_3/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
-				"C:/Users/rnl199331/source/repos/fallenatlas/P3D_Project_3/Content/Maps/ArchVis_TestWithGround.umap",
-				"C:/Users/rnl199331/source/repos/fallenatlas/P3D_Project_3/Content/Maps/_GENERATED/rnl199331/Box_2FD93145.uasset",
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/ArchVis_TestLook.umap",
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/ArchVis_RT_BuiltData.uasset",
@@ -36,6 +33,10 @@
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_D6811B65.uasset",
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Maps/_GENERATED/Utilizador/Box_DA3B522F.uasset",
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Megascans/Surfaces/Dirty_Roof_Tiles_wi4obhwg/T_Dirty_Roof_Tiles_wi4obhwg_2K_Mat.uasset",
+				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/StarterContent/Particles/Fire.uasset",
+				"C:/Users/rnl199331/source/repos/fallenatlas/P3D_Project_3/Content/FirstPerson/Maps/FirstPersonMap_BuiltData.uasset",
+				"C:/Users/rnl199331/source/repos/fallenatlas/P3D_Project_3/Content/Maps/ArchVis_TestWithGround.umap",
+				"C:/Users/rnl199331/source/repos/fallenatlas/P3D_Project_3/Content/Maps/_GENERATED/rnl199331/Box_2FD93145.uasset",
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/AutoLandscape/Content/Example/Materials/MI_Landscape_Mountain.uasset",
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/UE5Landscape/SenseiLandscape.uasset",
 				"C:/Users/Utilizador/Documents/Unreal Projects/P3DProject/Content/Materials/M_CurtainSu.uasset"
