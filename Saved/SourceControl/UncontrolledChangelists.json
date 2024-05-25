@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Isidro Lopes/source/repos/P3D_Project_3/Content/UI_WB.uasset",
+				"C:/Users/Isidro Lopes/source/repos/P3D_Project_3/Content/Blueprints/NewHUD.uasset",
 				"D:/Universidade/4-4/P3D/UE5/P3D_Project_3/Content/Blueprints/BP_Door.uasset",
 				"D:/Universidade/4-4/P3D/UE5/P3D_Project_3/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"D:/Universidade/4-4/P3D/UE5/P3D_Project_3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
